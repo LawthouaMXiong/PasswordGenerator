@@ -27,4 +27,4 @@ THEN the password is either displayed in an alert or written to the page<br />
 
 ## **Links to Portfolio**
 * GitHub Repository Link - https://github.com/LawthouaMXiong/Challenge3
-* GitHub Pages Deployed Link - https://lawthouamxiong.github.io/Challenge3/
+* GitHub Pages Deployed Link - https://lawthouamxiong.github.io/PasswordGenerator/
